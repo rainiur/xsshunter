@@ -14,3 +14,4 @@ payload-fire-images/*.png
 caddy/
 deploy.sh
 .github
+package-lock.json
